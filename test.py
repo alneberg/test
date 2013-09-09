@@ -20,8 +20,6 @@ def main():
     
     app = QtGui.QApplication(sys.argv)
 
-    if 1==1:
-        print "This is an awesome feature!"
     w = QtGui.QWidget()
     w.resize(250, 150)
     w.move(300, 300)
